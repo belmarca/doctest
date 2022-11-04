@@ -4,7 +4,10 @@ title: The Gambit system
 nav_order: 1
 ---
 
+
 # The Gambit system
+{:toc}
+
 The Gambit programming system is a full implementation of the Scheme language
 which conforms to the R4RS, R5RS, R7RS and IEEE Scheme standards. It consists of
 two main programs: gsi, the Gambit Scheme interpreter, and gsc, the Gambit
