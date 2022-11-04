@@ -1,7 +1,6 @@
 ---
-layout: page
-title: "INDEX"
-permalink: /index.html
+layout: default
+title: Index
 ---
 
-#Hello, world!
+# Hello, world!
