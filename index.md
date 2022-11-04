@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Gambit system
+nav_order: 1
 ---
 
 # The Gambit system
