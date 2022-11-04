@@ -6,6 +6,7 @@ nav_order: 1
 
 
 # The Gambit system
+- Contents
 {:toc}
 
 The Gambit programming system is a full implementation of the Scheme language
